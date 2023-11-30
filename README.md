@@ -6,7 +6,7 @@ Real-time chat application using React.js, Kotlin, Spring WebFlux and WebSocket 
 ### Server
 * Navigate to the `backend` folder
 * Start the server: `./gradlew bootRun`
-* You can also start the server using Docker `make build && make run`
+* You can also start the server using Docker: `make build && make run`
 ### Client 
 * Navigate to the `frontend` folder
 * Install dependencies `npm install`
