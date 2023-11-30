@@ -1,6 +1,6 @@
 # React Kotlin Chat
 Real-time chat application using React.js, Kotlin, Spring WebFlux and WebSocket protocol
-<img src="https://github.com/ttymonkey/react-kotlin-chat/blob/main/demo.gif" width="600"/>
+<img src="https://github.com/tty-monkey/react-kotlin-chat/blob/main/demo.gif" width="600"/>
 
 ## Running Locally
 ### Server
